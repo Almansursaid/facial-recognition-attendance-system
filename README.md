@@ -48,7 +48,7 @@ project/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/facial-recognition-attendance-system.git
+   git clone https://github.com/Almansursaid/facial-recognition-attendance-system.git
    cd facial-recognition-attendance-system
    ```
 2. Install the required Python libraries:
